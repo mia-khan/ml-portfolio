@@ -1,7 +1,7 @@
 # ML Portfolio
 
 Projects spanning NLP, deep learning, transfer learning theory, and AI systems.
-Built during B.S. in Data Science & Computer Science at Northeastern University.
+
 
 ## Projects
 
