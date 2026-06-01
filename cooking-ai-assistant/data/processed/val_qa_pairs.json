@@ -1,0 +1,835 @@
+[
+  {
+    "question": "What do you need to cook Classic Caesar Salad?",
+    "answer": "1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons",
+    "context": "Recipe: Classic Caesar Salad. Ingredients: 1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons. Instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "ingredients",
+    "title": "Classic Caesar Salad"
+  },
+  {
+    "question": "What's the makeing time for spaghetti carbonara?",
+    "answer": "1 minutes",
+    "context": "Recipe: Spaghetti Carbonara. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "cooking_time_augmented",
+    "title": "Spaghetti Carbonara"
+  },
+  {
+    "question": "How long does it take to make easy classic chocolate chip prepareies?",
+    "answer": "9 to 11 minutes",
+    "context": "Recipe: Easy Classic Chocolate Chip Cookies. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "cooking_time_augmented",
+    "title": "Easy Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "How much time does it take to make classic spaghetti carbonara?",
+    "answer": "1 minutes",
+    "context": "Recipe: Classic Spaghetti Carbonara. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "cooking_time_augmented",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "List the ingredients for Classic Chicken Stir Fry.",
+    "answer": "1 pound boneless skinless chicken breast cut into strips, 2 tablespoons vegetable oil, 1 red bell pepper sliced, 1 cup broccoli florets, 1 carrot julienned, 2 cloves garlic minced, 1 tablespoon fresh ginger grated, 14 cup soy sauce, 2 tablespoons oyster sauce, 1 tablespoon cornstarch, 2 green onions sliced, 1 tablespoon sesame oil, cooked rice for serving",
+    "context": "Recipe: Classic Chicken Stir Fry. Ingredients: 1 pound boneless skinless chicken breast cut into strips, 2 tablespoons vegetable oil, 1 red bell pepper sliced, 1 cup broccoli florets, 1 carrot julienned, 2 cloves garlic minced, 1 tablespoon fresh ginger grated, 14 cup soy sauce, 2 tablespoons oyster sauce, 1 tablespoon cornstarch, 2 green onions sliced, 1 tablespoon sesame oil, cooked rice for serving. Instructions: In small bowl, whisk together soy sauce, oyster sauce, and cornstarch set aside. Heat vegetable oil in large wok or skillet over high heat. Add chicken stir-fry 3-4 minutes until cooked through. Remove chicken from pan. Add bell pepper, broccoli, and carrot to pan stir-fry 2-3 minutes until crisp-tender. Add garlic and ginger stir-fry 30 seconds. Return chicken to pan. Add sauce mixture stir-fry 1-2 minutes until sauce thickens. Remove from heat stir in green onions and sesame oil. Serve over rice.",
+    "type": "ingredients",
+    "title": "Classic Chicken Stir Fry"
+  },
+  {
+    "question": "What type of dish is easy classic chocolate chip prepareies?",
+    "answer": "dessert",
+    "context": "Recipe: Easy Classic Chocolate Chip Cookies. This is a dessert.",
+    "type": "dish_type_augmented",
+    "title": "Easy Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "How long does it take to make Pancakes?",
+    "answer": "3 minutes",
+    "context": "Recipe: Pancakes. Instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "cooking_time",
+    "title": "Pancakes"
+  },
+  {
+    "question": "What's the makeing time for perfect spaghetti carbonara?",
+    "answer": "1 minutes",
+    "context": "Recipe: Perfect Spaghetti Carbonara. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "cooking_time_augmented",
+    "title": "Perfect Spaghetti Carbonara"
+  },
+  {
+    "question": "What is step 3 for making Homemade Classic Chocolate Chip Cookies?",
+    "answer": "Beat in eggs and vanilla.",
+    "context": "Recipe: Homemade Classic Chocolate Chip Cookies. Full instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "step",
+    "title": "Homemade Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What type of dish is Easy Chicken Stir Fry?",
+    "answer": "main course",
+    "context": "Recipe: Easy Chicken Stir Fry. This is a main course.",
+    "type": "dish_type",
+    "title": "Easy Chicken Stir Fry"
+  },
+  {
+    "question": "What do I need to make Classic Chocolate Chip Cookies?",
+    "answer": "2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips",
+    "context": "Recipe: Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "ingredients",
+    "title": "Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What type of dish is Perfect Pancakes?",
+    "answer": "dessert",
+    "context": "Recipe: Perfect Pancakes. This is a dessert.",
+    "type": "dish_type",
+    "title": "Perfect Pancakes"
+  },
+  {
+    "question": "What ingredients are needed for easy classic chocolate chip prepareies?",
+    "answer": "2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips",
+    "context": "Recipe: Easy Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "ingredients_augmented",
+    "title": "Easy Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What ingredients go into Classic Caesar Salad?",
+    "answer": "1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons",
+    "context": "Recipe: Classic Caesar Salad. Ingredients: 1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons. Instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "ingredients",
+    "title": "Classic Caesar Salad"
+  },
+  {
+    "question": "How to prepare Classic Spaghetti Carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Classic Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "What do you need to prepare spaghetti carbonara?",
+    "answer": "1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped",
+    "context": "Recipe: Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "ingredients_augmented",
+    "title": "Spaghetti Carbonara"
+  },
+  {
+    "question": "What type of dish is Classic Beef Tacos?",
+    "answer": "main course",
+    "context": "Recipe: Classic Beef Tacos. This is a main course.",
+    "type": "dish_type",
+    "title": "Classic Beef Tacos"
+  },
+  {
+    "question": "What is step 2 for making classic chocolate chip makeies?",
+    "answer": "In large bowl, beat butter and sugars with electric mixer until light and fluffy.",
+    "context": "Recipe: Classic Chocolate Chip Cookies. Full instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "step_augmented",
+    "title": "Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What's the recipe for Homemade Pancakes?",
+    "answer": "In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "context": "Recipe: Homemade Pancakes. Ingredients: 2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving. Instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "directions",
+    "title": "Homemade Pancakes"
+  },
+  {
+    "question": "What do I need to make Pancakes?",
+    "answer": "2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving",
+    "context": "Recipe: Pancakes. Ingredients: 2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving. Instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "ingredients",
+    "title": "Pancakes"
+  },
+  {
+    "question": "What is step 1 for making Classic Spaghetti Carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water.",
+    "context": "Recipe: Classic Spaghetti Carbonara. Full instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "step",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "What ingredients go into Easy Spaghetti Carbonara?",
+    "answer": "1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped",
+    "context": "Recipe: Easy Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "ingredients",
+    "title": "Easy Spaghetti Carbonara"
+  },
+  {
+    "question": "What are the cooking instructions for Spaghetti Carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions",
+    "title": "Spaghetti Carbonara"
+  },
+  {
+    "question": "What are the cooking instructions for Classic Chocolate Chip Cookies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions",
+    "title": "Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What's the recipe for Classic Spaghetti Carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Classic Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "What is step 3 for making Classic Spaghetti Carbonara?",
+    "answer": "Add garlic cook 1 minute.",
+    "context": "Recipe: Classic Spaghetti Carbonara. Full instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "step",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "List the ingredients for Homemade Caesar Salad.",
+    "answer": "1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons",
+    "context": "Recipe: Homemade Caesar Salad. Ingredients: 1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons. Instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "ingredients",
+    "title": "Homemade Caesar Salad"
+  },
+  {
+    "question": "What's required for making Perfect Beef Tacos?",
+    "answer": "1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving",
+    "context": "Recipe: Perfect Beef Tacos. Ingredients: 1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving. Instructions: In large skillet, cook ground beef over medium-high heat until browned drain. Add taco seasoning and water simmer 5 minutes, stirring occasionally. Warm taco shells according to package directions. Fill each shell with beef mixture and desired toppings. Serve with salsa.",
+    "type": "ingredients",
+    "title": "Perfect Beef Tacos"
+  },
+  {
+    "question": "What do you need to cook Perfect Pancakes?",
+    "answer": "2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving",
+    "context": "Recipe: Perfect Pancakes. Ingredients: 2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving. Instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "ingredients",
+    "title": "Perfect Pancakes"
+  },
+  {
+    "question": "What ingredients go into Perfect Caesar Salad?",
+    "answer": "1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons",
+    "context": "Recipe: Perfect Caesar Salad. Ingredients: 1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons. Instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "ingredients",
+    "title": "Perfect Caesar Salad"
+  },
+  {
+    "question": "What is step 1 for making Easy Caesar Salad?",
+    "answer": "In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil.",
+    "context": "Recipe: Easy Caesar Salad. Full instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "step",
+    "title": "Easy Caesar Salad"
+  },
+  {
+    "question": "List the ingredients for Beef Tacos.",
+    "answer": "1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving",
+    "context": "Recipe: Beef Tacos. Ingredients: 1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving. Instructions: In large skillet, cook ground beef over medium-high heat until browned drain. Add taco seasoning and water simmer 5 minutes, stirring occasionally. Warm taco shells according to package directions. Fill each shell with beef mixture and desired toppings. Serve with salsa.",
+    "type": "ingredients",
+    "title": "Beef Tacos"
+  },
+  {
+    "question": "What do I need to make Classic Pancakes?",
+    "answer": "2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving",
+    "context": "Recipe: Classic Pancakes. Ingredients: 2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving. Instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "ingredients",
+    "title": "Classic Pancakes"
+  },
+  {
+    "question": "How to prepare Classic Chocolate Chip Cookies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions",
+    "title": "Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What type of dish is classic chocolate chip makeies?",
+    "answer": "dessert",
+    "context": "Recipe: Classic Chocolate Chip Cookies. This is a dessert.",
+    "type": "dish_type_augmented",
+    "title": "Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What's the recipe for Classic Chocolate Chip Cookies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions",
+    "title": "Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "How do i prepare easy classic chocolate chip prepareies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Easy Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions_augmented",
+    "title": "Easy Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "How to prepare Perfect Spaghetti Carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Perfect Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions",
+    "title": "Perfect Spaghetti Carbonara"
+  },
+  {
+    "question": "What's required for making easy classic chocolate chip makeies?",
+    "answer": "2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips",
+    "context": "Recipe: Easy Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "ingredients_augmented",
+    "title": "Easy Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What's the recipe for Easy Caesar Salad?",
+    "answer": "In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "context": "Recipe: Easy Caesar Salad. Ingredients: 1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons. Instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "directions",
+    "title": "Easy Caesar Salad"
+  },
+  {
+    "question": "What's the dish for easy spaghetti carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Easy Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions_augmented",
+    "title": "Easy Spaghetti Carbonara"
+  },
+  {
+    "question": "What's the meal for classic spaghetti carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Classic Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions_augmented",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "What is step 2 for making perfect classic chocolate chip makeies?",
+    "answer": "In large bowl, beat butter and sugars with electric mixer until light and fluffy.",
+    "context": "Recipe: Perfect Classic Chocolate Chip Cookies. Full instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "step_augmented",
+    "title": "Perfect Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What ingredients go into classic classic chocolate chip makeies?",
+    "answer": "2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips",
+    "context": "Recipe: Classic Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "ingredients_augmented",
+    "title": "Classic Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What are the makeing instructions for perfect spaghetti carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Perfect Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions_augmented",
+    "title": "Perfect Spaghetti Carbonara"
+  },
+  {
+    "question": "What type of dish is Caesar Salad?",
+    "answer": "salad",
+    "context": "Recipe: Caesar Salad. This is a salad.",
+    "type": "dish_type",
+    "title": "Caesar Salad"
+  },
+  {
+    "question": "How much time does it take to make spaghetti carbonara?",
+    "answer": "1 minutes",
+    "context": "Recipe: Spaghetti Carbonara. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "cooking_time_augmented",
+    "title": "Spaghetti Carbonara"
+  },
+  {
+    "question": "What are the makeing instructions for classic spaghetti carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Classic Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions_augmented",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "What ingredients go into Classic Spaghetti Carbonara?",
+    "answer": "1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped",
+    "context": "Recipe: Classic Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "ingredients",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "What are the makeing instructions for easy spaghetti carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Easy Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions_augmented",
+    "title": "Easy Spaghetti Carbonara"
+  },
+  {
+    "question": "How do you make Perfect Spaghetti Carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Perfect Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions",
+    "title": "Perfect Spaghetti Carbonara"
+  },
+  {
+    "question": "What items go into homemade spaghetti carbonara?",
+    "answer": "1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped",
+    "context": "Recipe: Homemade Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "ingredients_augmented",
+    "title": "Homemade Spaghetti Carbonara"
+  },
+  {
+    "question": "How long does it take to make Classic Spaghetti Carbonara?",
+    "answer": "1 minutes",
+    "context": "Recipe: Classic Spaghetti Carbonara. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "cooking_time",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "How do i make classic spaghetti carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Classic Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions_augmented",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "What type of dish is Homemade Beef Tacos?",
+    "answer": "main course",
+    "context": "Recipe: Homemade Beef Tacos. This is a main course.",
+    "type": "dish_type",
+    "title": "Homemade Beef Tacos"
+  },
+  {
+    "question": "What is the cooking time does it take to make classic spaghetti carbonara?",
+    "answer": "1 minutes",
+    "context": "Recipe: Classic Spaghetti Carbonara. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "cooking_time_augmented",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "What's the cooking time for Pancakes?",
+    "answer": "3 minutes",
+    "context": "Recipe: Pancakes. Instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "cooking_time",
+    "title": "Pancakes"
+  },
+  {
+    "question": "How do I cook Classic Caesar Salad?",
+    "answer": "In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "context": "Recipe: Classic Caesar Salad. Ingredients: 1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons. Instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "directions",
+    "title": "Classic Caesar Salad"
+  },
+  {
+    "question": "What's the prepareing time for homemade classic chocolate chip prepareies?",
+    "answer": "9 to 11 minutes",
+    "context": "Recipe: Homemade Classic Chocolate Chip Cookies. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "cooking_time_augmented",
+    "title": "Homemade Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "How do I cook Easy Classic Chocolate Chip Cookies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Easy Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions",
+    "title": "Easy Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What are the makeing instructions for homemade classic chocolate chip makeies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Homemade Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions_augmented",
+    "title": "Homemade Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What are the steps for making Perfect Chicken Stir Fry?",
+    "answer": "In small bowl, whisk together soy sauce, oyster sauce, and cornstarch set aside. Heat vegetable oil in large wok or skillet over high heat. Add chicken stir-fry 3-4 minutes until cooked through. Remove chicken from pan. Add bell pepper, broccoli, and carrot to pan stir-fry 2-3 minutes until crisp-tender. Add garlic and ginger stir-fry 30 seconds. Return chicken to pan. Add sauce mixture stir-fry 1-2 minutes until sauce thickens. Remove from heat stir in green onions and sesame oil. Serve over rice.",
+    "context": "Recipe: Perfect Chicken Stir Fry. Ingredients: 1 pound boneless skinless chicken breast cut into strips, 2 tablespoons vegetable oil, 1 red bell pepper sliced, 1 cup broccoli florets, 1 carrot julienned, 2 cloves garlic minced, 1 tablespoon fresh ginger grated, 14 cup soy sauce, 2 tablespoons oyster sauce, 1 tablespoon cornstarch, 2 green onions sliced, 1 tablespoon sesame oil, cooked rice for serving. Instructions: In small bowl, whisk together soy sauce, oyster sauce, and cornstarch set aside. Heat vegetable oil in large wok or skillet over high heat. Add chicken stir-fry 3-4 minutes until cooked through. Remove chicken from pan. Add bell pepper, broccoli, and carrot to pan stir-fry 2-3 minutes until crisp-tender. Add garlic and ginger stir-fry 30 seconds. Return chicken to pan. Add sauce mixture stir-fry 1-2 minutes until sauce thickens. Remove from heat stir in green onions and sesame oil. Serve over rice.",
+    "type": "directions",
+    "title": "Perfect Chicken Stir Fry"
+  },
+  {
+    "question": "What is step 3 for making classic chocolate chip prepareies?",
+    "answer": "Beat in eggs and vanilla.",
+    "context": "Recipe: Classic Chocolate Chip Cookies. Full instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "step_augmented",
+    "title": "Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What are the cooking instructions for Classic Pancakes?",
+    "answer": "In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "context": "Recipe: Classic Pancakes. Ingredients: 2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving. Instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "directions",
+    "title": "Classic Pancakes"
+  },
+  {
+    "question": "How do I cook Perfect Caesar Salad?",
+    "answer": "In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "context": "Recipe: Perfect Caesar Salad. Ingredients: 1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons. Instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "directions",
+    "title": "Perfect Caesar Salad"
+  },
+  {
+    "question": "How do you make classic classic chocolate chip prepareies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Classic Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions_augmented",
+    "title": "Classic Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What are the cooking instructions for Classic Chicken Stir Fry?",
+    "answer": "In small bowl, whisk together soy sauce, oyster sauce, and cornstarch set aside. Heat vegetable oil in large wok or skillet over high heat. Add chicken stir-fry 3-4 minutes until cooked through. Remove chicken from pan. Add bell pepper, broccoli, and carrot to pan stir-fry 2-3 minutes until crisp-tender. Add garlic and ginger stir-fry 30 seconds. Return chicken to pan. Add sauce mixture stir-fry 1-2 minutes until sauce thickens. Remove from heat stir in green onions and sesame oil. Serve over rice.",
+    "context": "Recipe: Classic Chicken Stir Fry. Ingredients: 1 pound boneless skinless chicken breast cut into strips, 2 tablespoons vegetable oil, 1 red bell pepper sliced, 1 cup broccoli florets, 1 carrot julienned, 2 cloves garlic minced, 1 tablespoon fresh ginger grated, 14 cup soy sauce, 2 tablespoons oyster sauce, 1 tablespoon cornstarch, 2 green onions sliced, 1 tablespoon sesame oil, cooked rice for serving. Instructions: In small bowl, whisk together soy sauce, oyster sauce, and cornstarch set aside. Heat vegetable oil in large wok or skillet over high heat. Add chicken stir-fry 3-4 minutes until cooked through. Remove chicken from pan. Add bell pepper, broccoli, and carrot to pan stir-fry 2-3 minutes until crisp-tender. Add garlic and ginger stir-fry 30 seconds. Return chicken to pan. Add sauce mixture stir-fry 1-2 minutes until sauce thickens. Remove from heat stir in green onions and sesame oil. Serve over rice.",
+    "type": "directions",
+    "title": "Classic Chicken Stir Fry"
+  },
+  {
+    "question": "What are the steps for making Classic Spaghetti Carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Classic Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "What's the cooking time for Classic Chocolate Chip Cookies?",
+    "answer": "9 to 11 minutes",
+    "context": "Recipe: Classic Chocolate Chip Cookies. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "cooking_time",
+    "title": "Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What type of dish is Classic Spaghetti Carbonara?",
+    "answer": "pasta dish",
+    "context": "Recipe: Classic Spaghetti Carbonara. This is a pasta dish.",
+    "type": "dish_type",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "List the components for spaghetti carbonara.",
+    "answer": "1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped",
+    "context": "Recipe: Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "ingredients_augmented",
+    "title": "Spaghetti Carbonara"
+  },
+  {
+    "question": "How do I cook Classic Chocolate Chip Cookies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions",
+    "title": "Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What do I need to make Easy Beef Tacos?",
+    "answer": "1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving",
+    "context": "Recipe: Easy Beef Tacos. Ingredients: 1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving. Instructions: In large skillet, cook ground beef over medium-high heat until browned drain. Add taco seasoning and water simmer 5 minutes, stirring occasionally. Warm taco shells according to package directions. Fill each shell with beef mixture and desired toppings. Serve with salsa.",
+    "type": "ingredients",
+    "title": "Easy Beef Tacos"
+  },
+  {
+    "question": "How to prepare Easy Beef Tacos?",
+    "answer": "In large skillet, cook ground beef over medium-high heat until browned drain. Add taco seasoning and water simmer 5 minutes, stirring occasionally. Warm taco shells according to package directions. Fill each shell with beef mixture and desired toppings. Serve with salsa.",
+    "context": "Recipe: Easy Beef Tacos. Ingredients: 1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving. Instructions: In large skillet, cook ground beef over medium-high heat until browned drain. Add taco seasoning and water simmer 5 minutes, stirring occasionally. Warm taco shells according to package directions. Fill each shell with beef mixture and desired toppings. Serve with salsa.",
+    "type": "directions",
+    "title": "Easy Beef Tacos"
+  },
+  {
+    "question": "What are the makeing instructions for spaghetti carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions_augmented",
+    "title": "Spaghetti Carbonara"
+  },
+  {
+    "question": "What is step 3 for making classic classic chocolate chip makeies?",
+    "answer": "Beat in eggs and vanilla.",
+    "context": "Recipe: Classic Classic Chocolate Chip Cookies. Full instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "step_augmented",
+    "title": "Classic Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What are the cooking instructions for Classic Caesar Salad?",
+    "answer": "In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "context": "Recipe: Classic Caesar Salad. Ingredients: 1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons. Instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "directions",
+    "title": "Classic Caesar Salad"
+  },
+  {
+    "question": "What's the recipe for Perfect Caesar Salad?",
+    "answer": "In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "context": "Recipe: Perfect Caesar Salad. Ingredients: 1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons. Instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "directions",
+    "title": "Perfect Caesar Salad"
+  },
+  {
+    "question": "How do I prepare homemade spaghetti carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Homemade Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions_augmented",
+    "title": "Homemade Spaghetti Carbonara"
+  },
+  {
+    "question": "What is step 3 for making homemade classic chocolate chip makeies?",
+    "answer": "Beat in eggs and vanilla.",
+    "context": "Recipe: Homemade Classic Chocolate Chip Cookies. Full instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "step_augmented",
+    "title": "Homemade Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What do i need to make homemade classic chocolate chip makeies?",
+    "answer": "2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips",
+    "context": "Recipe: Homemade Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "ingredients_augmented",
+    "title": "Homemade Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "How do I cook Spaghetti Carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions",
+    "title": "Spaghetti Carbonara"
+  },
+  {
+    "question": "What do you need to prepare homemade spaghetti carbonara?",
+    "answer": "1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped",
+    "context": "Recipe: Homemade Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "ingredients_augmented",
+    "title": "Homemade Spaghetti Carbonara"
+  },
+  {
+    "question": "What is step 1 for making Classic Chicken Stir Fry?",
+    "answer": "In small bowl, whisk together soy sauce, oyster sauce, and cornstarch set aside.",
+    "context": "Recipe: Classic Chicken Stir Fry. Full instructions: In small bowl, whisk together soy sauce, oyster sauce, and cornstarch set aside. Heat vegetable oil in large wok or skillet over high heat. Add chicken stir-fry 3-4 minutes until cooked through. Remove chicken from pan. Add bell pepper, broccoli, and carrot to pan stir-fry 2-3 minutes until crisp-tender. Add garlic and ginger stir-fry 30 seconds. Return chicken to pan. Add sauce mixture stir-fry 1-2 minutes until sauce thickens. Remove from heat stir in green onions and sesame oil. Serve over rice.",
+    "type": "step",
+    "title": "Classic Chicken Stir Fry"
+  },
+  {
+    "question": "How do I cook Perfect Classic Chocolate Chip Cookies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Perfect Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions",
+    "title": "Perfect Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What ingredients are needed for perfect classic chocolate chip makeies?",
+    "answer": "2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips",
+    "context": "Recipe: Perfect Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "ingredients_augmented",
+    "title": "Perfect Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "How long does it take to make classic chocolate chip prepareies?",
+    "answer": "9 to 11 minutes",
+    "context": "Recipe: Classic Chocolate Chip Cookies. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "cooking_time_augmented",
+    "title": "Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What ingredients go into Classic Pancakes?",
+    "answer": "2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving",
+    "context": "Recipe: Classic Pancakes. Ingredients: 2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving. Instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "ingredients",
+    "title": "Classic Pancakes"
+  },
+  {
+    "question": "How do I cook Beef Tacos?",
+    "answer": "In large skillet, cook ground beef over medium-high heat until browned drain. Add taco seasoning and water simmer 5 minutes, stirring occasionally. Warm taco shells according to package directions. Fill each shell with beef mixture and desired toppings. Serve with salsa.",
+    "context": "Recipe: Beef Tacos. Ingredients: 1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving. Instructions: In large skillet, cook ground beef over medium-high heat until browned drain. Add taco seasoning and water simmer 5 minutes, stirring occasionally. Warm taco shells according to package directions. Fill each shell with beef mixture and desired toppings. Serve with salsa.",
+    "type": "directions",
+    "title": "Beef Tacos"
+  },
+  {
+    "question": "What's the cooking time for Homemade Chicken Stir Fry?",
+    "answer": "4 minutes",
+    "context": "Recipe: Homemade Chicken Stir Fry. Instructions: In small bowl, whisk together soy sauce, oyster sauce, and cornstarch set aside. Heat vegetable oil in large wok or skillet over high heat. Add chicken stir-fry 3-4 minutes until cooked through. Remove chicken from pan. Add bell pepper, broccoli, and carrot to pan stir-fry 2-3 minutes until crisp-tender. Add garlic and ginger stir-fry 30 seconds. Return chicken to pan. Add sauce mixture stir-fry 1-2 minutes until sauce thickens. Remove from heat stir in green onions and sesame oil. Serve over rice.",
+    "type": "cooking_time",
+    "title": "Homemade Chicken Stir Fry"
+  },
+  {
+    "question": "What is step 2 for making Easy Caesar Salad?",
+    "answer": "Season with salt and pepper.",
+    "context": "Recipe: Easy Caesar Salad. Full instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "step",
+    "title": "Easy Caesar Salad"
+  },
+  {
+    "question": "How to prepare easy classic chocolate chip prepareies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Easy Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions_augmented",
+    "title": "Easy Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "How do you make Easy Classic Chocolate Chip Cookies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Easy Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions",
+    "title": "Easy Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What are the steps for making Homemade Caesar Salad?",
+    "answer": "In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "context": "Recipe: Homemade Caesar Salad. Ingredients: 1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons. Instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "directions",
+    "title": "Homemade Caesar Salad"
+  },
+  {
+    "question": "How long does it take to make classic classic chocolate chip prepareies?",
+    "answer": "9 to 11 minutes",
+    "context": "Recipe: Classic Classic Chocolate Chip Cookies. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "cooking_time_augmented",
+    "title": "Classic Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What ingredients go into Classic Classic Chocolate Chip Cookies?",
+    "answer": "2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips",
+    "context": "Recipe: Classic Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "ingredients",
+    "title": "Classic Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What's the cooking time for Chicken Stir Fry?",
+    "answer": "4 minutes",
+    "context": "Recipe: Chicken Stir Fry. Instructions: In small bowl, whisk together soy sauce, oyster sauce, and cornstarch set aside. Heat vegetable oil in large wok or skillet over high heat. Add chicken stir-fry 3-4 minutes until cooked through. Remove chicken from pan. Add bell pepper, broccoli, and carrot to pan stir-fry 2-3 minutes until crisp-tender. Add garlic and ginger stir-fry 30 seconds. Return chicken to pan. Add sauce mixture stir-fry 1-2 minutes until sauce thickens. Remove from heat stir in green onions and sesame oil. Serve over rice.",
+    "type": "cooking_time",
+    "title": "Chicken Stir Fry"
+  },
+  {
+    "question": "How to prepare Easy Pancakes?",
+    "answer": "In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "context": "Recipe: Easy Pancakes. Ingredients: 2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving. Instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "directions",
+    "title": "Easy Pancakes"
+  },
+  {
+    "question": "List the ingredients for Perfect Beef Tacos.",
+    "answer": "1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving",
+    "context": "Recipe: Perfect Beef Tacos. Ingredients: 1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving. Instructions: In large skillet, cook ground beef over medium-high heat until browned drain. Add taco seasoning and water simmer 5 minutes, stirring occasionally. Warm taco shells according to package directions. Fill each shell with beef mixture and desired toppings. Serve with salsa.",
+    "type": "ingredients",
+    "title": "Perfect Beef Tacos"
+  },
+  {
+    "question": "What's the recipe for classic classic chocolate chip prepareies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Classic Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions_augmented",
+    "title": "Classic Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What is step 2 for making Classic Pancakes?",
+    "answer": "In separate bowl, whisk together eggs, milk, melted butter, and vanilla.",
+    "context": "Recipe: Classic Pancakes. Full instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "step",
+    "title": "Classic Pancakes"
+  },
+  {
+    "question": "What do you need to cook Homemade Classic Chocolate Chip Cookies?",
+    "answer": "2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips",
+    "context": "Recipe: Homemade Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "ingredients",
+    "title": "Homemade Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What are the cooking instructions for Pancakes?",
+    "answer": "In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "context": "Recipe: Pancakes. Ingredients: 2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving. Instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "directions",
+    "title": "Pancakes"
+  },
+  {
+    "question": "What is step 2 for making Classic Spaghetti Carbonara?",
+    "answer": "In large skillet, cook pancetta over medium heat until crispy.",
+    "context": "Recipe: Classic Spaghetti Carbonara. Full instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "step",
+    "title": "Classic Spaghetti Carbonara"
+  },
+  {
+    "question": "What do you need to make classic classic chocolate chip makeies?",
+    "answer": "2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips",
+    "context": "Recipe: Classic Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "ingredients_augmented",
+    "title": "Classic Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What are the cooking instructions for Homemade Chicken Stir Fry?",
+    "answer": "In small bowl, whisk together soy sauce, oyster sauce, and cornstarch set aside. Heat vegetable oil in large wok or skillet over high heat. Add chicken stir-fry 3-4 minutes until cooked through. Remove chicken from pan. Add bell pepper, broccoli, and carrot to pan stir-fry 2-3 minutes until crisp-tender. Add garlic and ginger stir-fry 30 seconds. Return chicken to pan. Add sauce mixture stir-fry 1-2 minutes until sauce thickens. Remove from heat stir in green onions and sesame oil. Serve over rice.",
+    "context": "Recipe: Homemade Chicken Stir Fry. Ingredients: 1 pound boneless skinless chicken breast cut into strips, 2 tablespoons vegetable oil, 1 red bell pepper sliced, 1 cup broccoli florets, 1 carrot julienned, 2 cloves garlic minced, 1 tablespoon fresh ginger grated, 14 cup soy sauce, 2 tablespoons oyster sauce, 1 tablespoon cornstarch, 2 green onions sliced, 1 tablespoon sesame oil, cooked rice for serving. Instructions: In small bowl, whisk together soy sauce, oyster sauce, and cornstarch set aside. Heat vegetable oil in large wok or skillet over high heat. Add chicken stir-fry 3-4 minutes until cooked through. Remove chicken from pan. Add bell pepper, broccoli, and carrot to pan stir-fry 2-3 minutes until crisp-tender. Add garlic and ginger stir-fry 30 seconds. Return chicken to pan. Add sauce mixture stir-fry 1-2 minutes until sauce thickens. Remove from heat stir in green onions and sesame oil. Serve over rice.",
+    "type": "directions",
+    "title": "Homemade Chicken Stir Fry"
+  },
+  {
+    "question": "What are the cooking instructions for Perfect Beef Tacos?",
+    "answer": "In large skillet, cook ground beef over medium-high heat until browned drain. Add taco seasoning and water simmer 5 minutes, stirring occasionally. Warm taco shells according to package directions. Fill each shell with beef mixture and desired toppings. Serve with salsa.",
+    "context": "Recipe: Perfect Beef Tacos. Ingredients: 1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving. Instructions: In large skillet, cook ground beef over medium-high heat until browned drain. Add taco seasoning and water simmer 5 minutes, stirring occasionally. Warm taco shells according to package directions. Fill each shell with beef mixture and desired toppings. Serve with salsa.",
+    "type": "directions",
+    "title": "Perfect Beef Tacos"
+  },
+  {
+    "question": "What's required for making Perfect Spaghetti Carbonara?",
+    "answer": "1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped",
+    "context": "Recipe: Perfect Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "ingredients",
+    "title": "Perfect Spaghetti Carbonara"
+  },
+  {
+    "question": "What do you need to cook Classic Beef Tacos?",
+    "answer": "1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving",
+    "context": "Recipe: Classic Beef Tacos. Ingredients: 1 pound ground beef, 1 packet taco seasoning, 34 cup water, 8 taco shells, 1 cup shredded lettuce, 1 cup diced tomatoes, 1 cup shredded cheddar cheese, 12 cup diced onion, 12 cup sour cream, salsa for serving. Instructions: In large skillet, cook ground beef over medium-high heat until browned drain. Add taco seasoning and water simmer 5 minutes, stirring occasionally. Warm taco shells according to package directions. Fill each shell with beef mixture and desired toppings. Serve with salsa.",
+    "type": "ingredients",
+    "title": "Classic Beef Tacos"
+  },
+  {
+    "question": "How do I cook Easy Caesar Salad?",
+    "answer": "In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "context": "Recipe: Easy Caesar Salad. Ingredients: 1 large head romaine lettuce chopped, 12 cup mayonnaise, 2 tablespoons lemon juice, 2 cloves garlic minced, 1 teaspoon Dijon mustard, 1 teaspoon Worcestershire sauce, 12 cup grated Parmesan cheese, 14 cup olive oil, salt and pepper to taste, 1 cup croutons. Instructions: In large bowl, whisk together mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and olive oil. Season with salt and pepper. Add romaine lettuce and toss to coat with dressing. Sprinkle with Parmesan cheese and croutons. Serve immediately.",
+    "type": "directions",
+    "title": "Easy Caesar Salad"
+  },
+  {
+    "question": "What do you need to cook Easy Pancakes?",
+    "answer": "2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving",
+    "context": "Recipe: Easy Pancakes. Ingredients: 2 cups all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1 teaspoon salt, 2 large eggs, 1 34 cups milk, 14 cup melted butter, 1 teaspoon vanilla extract, butter for cooking, maple syrup for serving. Instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "ingredients",
+    "title": "Easy Pancakes"
+  },
+  {
+    "question": "How do i make perfect spaghetti carbonara?",
+    "answer": "Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "context": "Recipe: Perfect Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "directions_augmented",
+    "title": "Perfect Spaghetti Carbonara"
+  },
+  {
+    "question": "What ingredients go into Perfect Classic Chocolate Chip Cookies?",
+    "answer": "2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips",
+    "context": "Recipe: Perfect Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "ingredients",
+    "title": "Perfect Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "How do i make easy classic chocolate chip makeies?",
+    "answer": "Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "context": "Recipe: Easy Classic Chocolate Chip Cookies. Ingredients: 2 cups all-purpose flour, 1 cup butter softened, 34 cup granulated sugar, 34 cup packed brown sugar, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda, 1 teaspoon salt, 2 cups chocolate chips. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "directions_augmented",
+    "title": "Easy Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "How long does it take to make classic classic chocolate chip makeies?",
+    "answer": "9 to 11 minutes",
+    "context": "Recipe: Classic Classic Chocolate Chip Cookies. Instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "cooking_time_augmented",
+    "title": "Classic Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What is step 2 for making classic classic chocolate chip makeies?",
+    "answer": "In large bowl, beat butter and sugars with electric mixer until light and fluffy.",
+    "context": "Recipe: Classic Classic Chocolate Chip Cookies. Full instructions: Heat oven to 375F. In large bowl, beat butter and sugars with electric mixer until light and fluffy. Beat in eggs and vanilla. In medium bowl, stir together flour, baking soda and salt gradually add to butter mixture, beating until well mixed. Stir in chocolate chips. Drop dough by rounded tablespoonfuls 2 inches apart onto ungreased cookie sheets. Bake 9 to 11 minutes or until golden brown. Cool 2 minutes remove from cookie sheets to cooling racks.",
+    "type": "step_augmented",
+    "title": "Classic Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What type of dish is easy classic chocolate chip makeies?",
+    "answer": "dessert",
+    "context": "Recipe: Easy Classic Chocolate Chip Cookies. This is a dessert.",
+    "type": "dish_type_augmented",
+    "title": "Easy Classic Chocolate Chip Cookies"
+  },
+  {
+    "question": "What is step 3 for making Perfect Pancakes?",
+    "answer": "Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy).",
+    "context": "Recipe: Perfect Pancakes. Full instructions: In large bowl, whisk together flour, sugar, baking powder, and salt. In separate bowl, whisk together eggs, milk, melted butter, and vanilla. Add wet ingredients to dry ingredients stir just until combined (batter will be lumpy). Heat griddle or large skillet over medium heat brush with butter. Pour 14 cup batter for each pancake. Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook 1-2 minutes more until golden brown. Serve with maple syrup.",
+    "type": "step",
+    "title": "Perfect Pancakes"
+  },
+  {
+    "question": "What items are needed for homemade spaghetti carbonara?",
+    "answer": "1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped",
+    "context": "Recipe: Homemade Spaghetti Carbonara. Ingredients: 1 pound spaghetti pasta, 6 large eggs, 1 cup freshly grated Parmesan cheese, 8 ounces pancetta or bacon diced, 4 cloves garlic minced, 12 cup dry white wine, salt and freshly ground black pepper to taste, 2 tablespoons fresh parsley chopped. Instructions: Cook spaghetti according to package directions until al dente drain, reserving 1 cup pasta water. In large skillet, cook pancetta over medium heat until crispy. Add garlic cook 1 minute. Add wine simmer until reduced by half. In large bowl, whisk together eggs and Parmesan cheese. Add hot pasta to pancetta mixture toss to combine. Remove from heat and quickly stir in egg mixture, adding pasta water as needed to create creamy sauce. Season with salt and pepper garnish with parsley.",
+    "type": "ingredients_augmented",
+    "title": "Homemade Spaghetti Carbonara"
+  }
+]

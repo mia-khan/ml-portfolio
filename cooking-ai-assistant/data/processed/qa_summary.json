@@ -1,0 +1,20 @@
+{
+  "total_qa_pairs": 795,
+  "train_pairs": 556,
+  "val_pairs": 119,
+  "test_pairs": 120,
+  "generation_date": "2025-08-13 01:16:53",
+  "qa_types": [
+    "ingredients",
+    "directions",
+    "cooking_time",
+    "temperature",
+    "dish_type",
+    "step"
+  ],
+  "files": [
+    "data/processed/train_qa_pairs.json",
+    "data/processed/val_qa_pairs.json",
+    "data/processed/test_qa_pairs.json"
+  ]
+}

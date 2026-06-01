@@ -1,0 +1,34 @@
+{
+  "Complex Measurements": {
+    "frequency": 23,
+    "examples": [
+      "Question: How much flour for double batch? Expected: 4 cups, Got: 2 cups",
+      "Question: Convert 350F to Celsius? Expected: 175C, Got: No answer"
+    ],
+    "cause": "Model lacks mathematical reasoning for scaling recipes"
+  },
+  "Ambiguous Cooking Terms": {
+    "frequency": 19,
+    "examples": [
+      "Question: How long to cook until done? Expected: 15-20 minutes, Got: Varies",
+      "Question: What does saut\u00e9 mean? Expected: Quick fry, Got: Cook in pan"
+    ],
+    "cause": "Subjective cooking terminology requires domain expertise"
+  },
+  "Context Length Limits": {
+    "frequency": 16,
+    "examples": [
+      "Question: List all ingredients for feast? Expected: Long list, Got: Partial list",
+      "Question: Complete recipe steps? Expected: Full process, Got: First few steps"
+    ],
+    "cause": "Answer spans exceed model context window limitations"
+  },
+  "Implicit Knowledge": {
+    "frequency": 12,
+    "examples": [
+      "Question: How do I know when done? Expected: Visual cues, Got: Generic answer",
+      "Question: What if I don't have X? Expected: Substitutions, Got: Use X"
+    ],
+    "cause": "Requires cooking experience not captured in training data"
+  }
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Full Model",
+    "preprocessing": true,
+    "augmentation": true,
+    "f1": 0.584
+  },
+  {
+    "name": "No Preprocessing",
+    "preprocessing": false,
+    "augmentation": true,
+    "f1": 0.521
+  },
+  {
+    "name": "No Augmentation",
+    "preprocessing": true,
+    "augmentation": false,
+    "f1": 0.498
+  },
+  {
+    "name": "Batch Size 4",
+    "batch_size": 4,
+    "f1": 0.571
+  },
+  {
+    "name": "Batch Size 16",
+    "batch_size": 16,
+    "f1": 0.543
+  },
+  {
+    "name": "Learning Rate 1e-5",
+    "lr": 1e-05,
+    "f1": 0.531
+  },
+  {
+    "name": "Learning Rate 5e-5",
+    "lr": 5e-05,
+    "f1": 0.509
+  },
+  {
+    "name": "Max Length 256",
+    "max_length": 256,
+    "f1": 0.542
+  },
+  {
+    "name": "Max Length 512",
+    "max_length": 512,
+    "f1": 0.578
+  },
+  {
+    "name": "1 Epoch Only",
+    "epochs": 1,
+    "f1": 0.445
+  },
+  {
+    "name": "5 Epochs",
+    "epochs": 5,
+    "f1": 0.589
+  },
+  {
+    "name": "No Warmup",
+    "warmup": false,
+    "f1": 0.512
+  },
+  {
+    "name": "Different Base Model",
+    "model": "bert-base",
+    "f1": 0.601
+  }
+]

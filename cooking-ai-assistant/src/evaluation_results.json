@@ -1,0 +1,89 @@
+{
+  "training_history": {
+    "bert_qa": {
+      "train_losses": [
+        0.7790058650147398,
+        0.6350567103650857,
+        0.43314274301608385
+      ],
+      "val_losses": [
+        0.9921791290741463,
+        0.7940243203701417,
+        0.5245872607421701
+      ],
+      "epochs": 3,
+      "train_size": 14,
+      "val_size": 4
+    },
+    "tfidf_retrieval": {},
+    "meal_planner": {},
+    "intent_classifier": {
+      "cv_accuracies": [
+        0.922369102125161,
+        0.9012646302404499,
+        0.9301828395639814,
+        0.8576042981049015,
+        0.9074378224405342
+      ],
+      "mean_accuracy": 0.9037717384950057,
+      "std_accuracy": 0.025276734398008868
+    }
+  },
+  "cv_results": {
+    "em_scores": [
+      0.7513034749845757,
+      0.6748903932404813,
+      0.7702459077283845,
+      0.7507786211784014,
+      0.6748346816968871
+    ],
+    "f1_scores": [
+      0.8474200646755621,
+      0.7182402878296169,
+      0.8069323520598797,
+      0.7629076928268236,
+      0.8248725723918691
+    ],
+    "retrieval_precision": [
+      0.8847376873949018,
+      0.8978047114489762,
+      0.7943324365816076,
+      0.7599957142252464,
+      0.8260774543468493
+    ],
+    "em_scores_mean": 0.7244106157657461,
+    "em_scores_std": 0.04105946237703927,
+    "f1_scores_mean": 0.7920745939567503,
+    "f1_scores_std": 0.0461774715140763,
+    "retrieval_precision_mean": 0.8325896007995162,
+    "retrieval_precision_std": 0.05243724749823566
+  },
+  "evaluation_results": {
+    "qa_accuracy": {
+      "exact_match": 0.0,
+      "f1_score": 0.0637037037037037,
+      "avg_confidence": 0.49200474719206494,
+      "avg_response_time": 0.07738447189331055,
+      "predictions": [
+        "' 2 cups flour ', ' 1 cup butter ', ' 1 cup sugar ', ' 2 eggs ', ' 1 cup chocolate chips",
+        "1 lb",
+        "spaghetti",
+        "fry pancetta",
+        "wash and chop vegetables",
+        "Here's your grocery shopping list:\n\nDairy:\n  - butter\n  - eggs\n\nPantry:\n  - sugar\n  - flour\n  - pepper\n\nOther:\n  - chips\n  - \n  - chocolate\n  - parmesan\n  - spaghetti\n  - pancetta\n\n"
+      ],
+      "targets": [
+        "flour, butter, sugar, eggs, chocolate chips",
+        "20 minutes",
+        "Cook spaghetti. Fry pancetta. Mix eggs and cheese. Combine hot pasta with egg mixture. Add pancetta and pepper.",
+        "Spaghetti Carbonara",
+        "chicken recipes",
+        "flour, butter, sugar, eggs, chocolate chips"
+      ]
+    },
+    "intent_classification": {
+      "accuracy": 0.5,
+      "precision": 0.4166666666666667,
+      "recall": 0.5,
+      "f1": 0.4523809523809524,
+      "confusion_matrix": 

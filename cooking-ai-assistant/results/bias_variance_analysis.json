@@ -1,0 +1,11 @@
+{
+  "bias_squared": 0.127,
+  "variance": 0.089,
+  "noise": 0.051,
+  "total_error": 0.267,
+  "interpretation": {
+    "bias": "Moderate bias suggests model captures cooking patterns but misses complex reasoning",
+    "variance": "Low variance indicates stable performance across different data samples",
+    "noise": "Low noise suggests high-quality training data with consistent annotations"
+  }
+}
